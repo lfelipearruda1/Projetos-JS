@@ -6,8 +6,8 @@ Bem-vindo ao meu repositório de projetos! Este repositório foi criado com o in
 
 ### 1. Cronômetro
 Este foi o primeiro projeto do repositório. Ele é um cronômetro simples que permite iniciar, pausar e zerar a contagem de tempo.
-![Screenshot do Projeto](assets/img/cronometro.png)
+![Screenshot do Projeto](img/cronometro.png)
 
 ### 2. Lista de Tarefas
 O segundo projeto é uma aplicação de lista de tarefas. Esta aplicação permite adicionar, excluir e visualizar tarefas.
-![Screenshot do Projeto](assets/img/tarefa.png)
+![Screenshot do Projeto](img/tarefa.png)
