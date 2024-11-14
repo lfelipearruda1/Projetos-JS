@@ -10,4 +10,4 @@ Este foi o primeiro projeto do repositório. Ele é um cronômetro simples que p
 
 ### 2. Lista de Tarefas
 O segundo projeto é uma aplicação de lista de tarefas. Esta aplicação permite adicionar, excluir e visualizar tarefas.
-![Screenshot do Projeto](tarefa.png)
+![Screenshot do Projeto](assets/tarefa.png)
