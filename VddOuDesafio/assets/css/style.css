@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    margin-top: 50px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-section {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.input-participante {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-adicionar, .btn-iniciar, .btn-girar {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.btn-adicionar:hover, .btn-iniciar:hover, .btn-girar:hover {
+    background-color: #0056b3;
+}
+
+.lista-participantes {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.lista-participantes li {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+p.escolha {
+    font-weight: bold;
+    color: #d9534f;
+}
